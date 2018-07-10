@@ -1,0 +1,16 @@
+{
+  "ofm-mdc": {
+    "service": "ofm-mdc",
+    "version": "2"
+  },
+  "tops": {
+    "service": "tops",
+    "version": "1"
+  },
+  "cds": {
+    "version": "0"
+  },
+  "pwb": {
+    "version": "0"
+  }
+}
